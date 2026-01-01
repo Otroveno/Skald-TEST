@@ -1,0 +1,1 @@
+[ { "id": "example1", "description": "example11", "usageChance": 8, "applicableNPCs": ["lords", "companions", "village_notables"], "category": "world" }, { "id": "example2", "description": "example22", "usageChance": 6, "applicableNPCs": ["faction_leaders", "lords"], "category": "world" } ]

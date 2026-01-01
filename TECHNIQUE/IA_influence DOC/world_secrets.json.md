@@ -1,0 +1,1 @@
+[ { "id": "example1", "description": "example11", "knowledgeChance": 65, "applicableNPCs": ["lords"], "accessLevel": "high", "tags": ["templar_hunt", "secret_order"] }, { "id": "example2", "description": "example22", "knowledgeChance": 100, "applicableNPCs": ["faction_leaders"], "accessLevel": "high", "tags": ["templar_hunt", "secret_order"] }, ]
