@@ -1,0 +1,18 @@
+
+<GauntletLayer>
+  <Window WidthSizePolicy="CoverChildren"
+          HeightSizePolicy="CoverChildren"
+          IsFocusable="true">
+    <VerticalLayout Margin="30">
+      <TextWidget Text="AI Influence – Debug"
+                  FontSize="24" />
+      <ToggleButtonWidget IsSelected="@AIEnabled"
+                          Text="IA Active" />
+      <ListPanel Items="@Events">
+        <ListPanelItemTemplate>
+          <TextWidget Text="@Item" />
+        </ListPanelItemTemplate>
+      </ListPanel>
+    </VerticalLayout>
+  </Window>
+</GauntletLayer>

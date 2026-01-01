@@ -1,0 +1,13 @@
+
+<Module>
+  <Name value="AIInfluence"/>
+  <Id value="AIInfluence"/>
+  <Version value="1.0.0"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <Dependencies>
+    <Dependency Id="Native"/>
+    <Dependency Id="SandBox"/>
+    <Dependency Id="StoryMode"/>
+  </Dependencies>
+</Module>
