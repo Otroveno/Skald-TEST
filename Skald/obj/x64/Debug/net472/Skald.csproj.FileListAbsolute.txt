@@ -1,0 +1,5 @@
+E:\Utilisateur\Documents\BannerlordMods\Skald\obj\x64\Debug\net472\Skald.csproj.AssemblyReference.cache
+E:\Utilisateur\Documents\BannerlordMods\Skald\obj\x64\Debug\net472\Skald.GeneratedMSBuildEditorConfig.editorconfig
+E:\Utilisateur\Documents\BannerlordMods\Skald\obj\x64\Debug\net472\Skald.AssemblyInfoInputs.cache
+E:\Utilisateur\Documents\BannerlordMods\Skald\obj\x64\Debug\net472\Skald.AssemblyInfo.cs
+E:\Utilisateur\Documents\BannerlordMods\Skald\obj\x64\Debug\net472\Skald.csproj.CoreCompileInputs.cache
