@@ -5,9 +5,8 @@
   href: api/
 
 - name: Bannerlord Documentations
-  dropdown: true
   items:
     - name: Official Documentation
       href: https://moddocs.bannerlord.com/
     - name: Community Documentation
-      href: https://docs.bannerlordmodding.com/
+      href: https://docs.bannerlordmodding.com

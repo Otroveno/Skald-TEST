@@ -4,11 +4,10 @@
       "src": [
         {
           "src": "../src",
-          "files": [ "Bannerlord.UIExtenderEx/*.csproj" ]
+          "files": [ "Bannerlord.ButterLib/*.csproj" ]
         }
       ],
-      "dest": "api",
-      "filter": "filterConfig.yml"
+      "dest": "api"
     }
   ],
   "build": {
@@ -21,17 +20,18 @@
       { "files": [ "**/**.{md,yml}" ], "exclude": [ "_site/**", "obj/**" ] }
     ],
     "resource": [
-      { "files": [ "images/**", "codesnippet/**", "CNAME" ], "exclude": [ "_site/**", "obj/**" ] },
-      { "files": [ "articles/**/*.{png,svg}" ], "exclude": [ "_site/**", "obj/**" ] }
+      { "files": [ "**/images/**", "codesnippet/**", "CNAME" ], "exclude": [ "_site/**", "obj/**" ] }
     ],
     "dest": "_site",
     "globalMetadata": {
       "_enableSearch": "true",
-      "_appTitle": "UIExtenderEx Documentation",
-      "_appName": "UIExtenderEx",
       "_appLogoPath": "images/BUTR48.svg",
+      "_appName": "ButterLib",
+      "_appTitle": "ButterLib Documentation",
       "_appFooter": "© 2020-2024 Bannerlord's Unofficial Tools & Resources"
     },
+    "globalMetadataFiles": [],
+    "fileMetadataFiles": [],
     "template": [
       "default",
       "modern",

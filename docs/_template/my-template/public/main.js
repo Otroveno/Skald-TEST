@@ -3,7 +3,7 @@ export default {
   iconLinks: [
     {
       icon: 'github',
-      href: 'https://github.com/BUTR/Bannerlord.UIExtenderEx',
+      href: 'https://github.com/BUTR/Bannerlord.ButterLib',
       title: 'GitHub'
     },
     {
